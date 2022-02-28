@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Now is the time: or, The proposal of the loan-bank seasonable By T.W.</title>
+            <author>Whately, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96294</idno>
+            <idno type="STC">Wing W1587</idno>
+            <idno type="STC">ESTC R230821</idno>
+            <idno type="EEBO-CITATION">99896060</idno>
+            <idno type="PROQUEST">99896060</idno>
+            <idno type="VID">153752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153752)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2377:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Now is the time: or, The proposal of the loan-bank seasonable By T.W.</title>
+                  <author>Whately, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. M. for the author, and are to be had at Mr. Cater', in Old Palace-yard near the Parliament-house; as likewise The Loan-Office, and an Advantageous Method, &amp;c.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695/6 [1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debts, Public --  England --  Early works to 1800.</term>
+               <term>Land banks --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153752:1" rendition="simple:additions"/>
+            <head>
+               <hi>Now is the Time:</hi> Or, The Propoſal of the <hi>LOAN-BANK</hi> Seaſonable.</head>
+            <byline>By <hi>T. W.</hi>
+            </byline>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> An Additional Propoſal concerning <hi>Guineas.</hi>
+               </head>
+               <p>THAT for every Guinea brought into the <hi>Loan-Bank</hi> before the — day of — be deliver'd 10 <hi>s.</hi> of Current Silver Coyn in hand,<note place="margin">Mr. <hi>Blackwel</hi>'s Eſſay towards carrying on the preſent War, <hi>&amp;c. p.</hi> 4.</note> and a Bill of 20 <hi>s.</hi> payable at the time appointed to repay the Banks their Princi<g ref="char:EOLhyphen"/>pal, or (as PARLIAMENT ſhall appoint. And that — (after the expiration of the time limited for receiving theſe Guineas) no Guinea ſhall paſs for above — <hi>s.</hi>
+               </p>
+               <p>By this means all the Inconveniences of the enhaunced rate of Guineas are not on<g ref="char:EOLhyphen"/>ly prevented, but turned to the great Advantage of the Nation: For, no perſon can loſe by Guineas, and every Guinea will be about double ſo much to the Nation. The King being thus ſupply'd with Guineas for his Foreign Occaſions, the new Mill'd Mony will be kept at home; all the Conveniences of the <hi>Loan-Banks,</hi> ſo un<g ref="char:EOLhyphen"/>ſpeakably for the Good of the King and People, will be effectually retriev'd; the the Bottom broad enough to bear whatſoever Structure is to be rais'd upon it; All the Advantages mention'd in my former Papers, and many more, certainly Se<g ref="char:EOLhyphen"/>cur'd; and the Credit of theſe Banks forthwith confirm'd: For, the Owners of Guineas, that knew how to advance <hi>them</hi> ſo much above their Real Value, cannot want Means of giving a Credit to the <hi>Loan-Bills</hi> anſwerable to the true Value of them (Bills inſured by an Act of Parliament, on an indubitable Fund, every day im<g ref="char:EOLhyphen"/>proving on their hands, and never in danger of ſinking); nor can they want Mo<g ref="char:EOLhyphen"/>tives to do it, their own Intereſt being ſo deeply engag'd. They that could ad<g ref="char:EOLhyphen"/>vance a Guinea near one third above its real Value (in danger of ſinking, and not improvable by keeping) may much more eaſily advance a <hi>Loan-Bill</hi> one Quarter's Intereſt, at leaſt, above its preſent value, when only lying by a little while will make it really worth ſo much. And, if this ſhould be the Caſe, then our Work is done, our Bank's Credit ſecure, no danger of their ſinking, their Bills Current, and the moſt Popular Objections all remov'd at once: For,</p>
+               <p>Who would pay their <hi>Loan-Bills</hi> in Taxes, or return them to the Banks, and re<g ref="char:EOLhyphen"/>ceive their Principal, (unleſs Compel'd thereunto by Parliament) when they muſt Loſe thereby? And, who would not prefer a <hi>Loan-Bill</hi> of 20 <hi>s.</hi> before 20 <hi>s.</hi> in Coyn, when the Bill will bring him more than 20 <hi>s.</hi>? Nor will there be any danger of Want of Current Silver Coin to exchange theſe Bills, when the Gold, being thus reduced, keeps our Silver at home. Nor is this only a diſtant Probability; 'tis morally impoſſible, if this Propoſal concerning Guineas be accepted, it ſhould be otherwiſe.</p>
+               <p>What made the <hi>Venice</hi> Bills, without Fund or Intereſt, advance 20 <hi>per Cent.?</hi>
+                  <note n="*" place="margin">Mr. <hi>Black<g ref="char:EOLhyphen"/>wel</hi>'s Eſſay, &amp;c. <hi>p.</hi> 18.</note> 
+                  <hi>The Eaſe of counting, carriage, preventing damage to the Receiver by Counterfeit, Clip'd, and Baſe Coyn; the Advantage that was to be made by the Exchange,</hi> &amp;c. Surely we may ex<g ref="char:EOLhyphen"/>pect, where to all this is added the Beſt Security and Higheſt Intereſt that the Land can afford, our <hi>Loan-Bills</hi> would not be leſs valuable, but be counted good Pur<g ref="char:EOLhyphen"/>chaſe, and, like our Guineas, riſe upon us, till it may be neceſſary to put a Reſtraint upon them, leſt they alſo become extravagant, and leſs uſeful for Commerce. The ſame Heads are as likely to do the one as the other; which they will not fail to attempt, their Intereſt equally engaging them, and the danger of Loſs not being ſo great. The Humour of the <hi>Exchange</hi> might in One day, have ſunk the Guineas on their hands, and left them without Redreſs: Theſe Bills, by their very <hi>lying by,</hi> will in time encreaſe up to their enhaunced price.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> The Seaſonableneſs of Eſtabliſhing theſe Loan-Banks now.</head>
+               <p>Let but a Tax or Security be granted, ſufficient to anſwer the Intereſt (with a Sur<g ref="char:EOLhyphen"/>pluſage to enſure the Intereſt) of the Sum allow'd to be Continu'd or Lent, allotting to every <hi>Loan-Bank</hi> its proportion, with proviſion that the <hi>Tax</hi> or Security be conti<g ref="char:EOLhyphen"/>nued, till the Principal be paid; and that <hi>That</hi> be made payable before any other Debts not yet contracted: This is ſufficient to give the <hi>Banks</hi> a Bottom. Nor need we fear creating too much Credit to the People, or taking in too much Mony; there be ways enough to diſpoſe of it, Debts to be paid, <hi>&amp;c.</hi> Nor can it do us any hurt to be beforehand. And it would be a lucky Contrivance, if while we carry on a <hi>War</hi> we could be doing the Works of <hi>Peace,</hi> clearing old Scores, advancing the Stock of the Nation, <hi>&amp;c.</hi> And, for <hi>all</hi> this,</p>
+            </div>
+            <div type="part">
+               <head>Now is the Time.</head>
+               <p n="1">1. The Guineas (if the 'foremention'd Propoſal takes) muſt come into theſe <hi>Loan-Banks,</hi> unleſs you will ſuppoſe Men willing rather to loſe near a third part, than truſt
+<pb facs="tcp:153752:2"/>upon the beſt Intereſt and Security, and <hi>Men</hi> that will know how to <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe</hi> their Bills a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they did the Guineas, and muſt do it, or give over the <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de.</hi>
+               </p>
+               <p n="2">2. This will ſupport the Credit of the <hi>Exchequer</hi> under its preſent Difficulties: for, that being thus ſupplied with Gold, will be better able to iſſue forth Silver, an<g ref="char:EOLhyphen"/>ſwer the Demands made upon it, and circulate the Current Coyn.</p>
+               <p n="3">3. The greatneſs of the Taxes will further the Deſign; the People will be leſs afraid of parting with their Mony for Bills, when they are ſure that theſe Bills will pay their Taxes: And ſo far, at leaſt, they are better than Mony. Nor can the <hi>Exchequer</hi> be Sufferer by it, which had the Mony before hand.</p>
+               <p n="4">4. The Calling in of the Bad Mony (of which more may be left than we imagin) is another Help; the People muſt now either ſtand by the Loſs of their Bad Mony, or pay it all at once in <hi>Taxes,</hi> or lend it to the King. Some have more than enough to pay their <hi>Taxes,</hi> but not enough to make a Sum to lend the King; theſe will glad<g ref="char:EOLhyphen"/>ly take the opportunity of throwing it into the Banks, by which they ſhall rid their hands of it, receive Intereſt, and have their Bills ready to pay <hi>Taxes.</hi> And many of them may have Foreſight enough to make a tryal what <hi>Mony</hi> they had beſt to part with when their <hi>Taxes</hi> come to be paid, <hi>Coyn</hi> or <hi>Bills.</hi>
+               </p>
+               <p n="5">5. <hi>This is the Time,</hi> — To prevent the Stop of Commerce; to relieve the Neceſſities of the Poorer ſort of People, and ſilence their Clamours, without giving our Enemies Hopes of ſeeing any thing <hi>worſe</hi> than Complaints, nor for the future <hi>them;</hi> to prevent the Exportation of Bullion, occaſion'd by the Extravagant Rate we ſet upon Gold, or (with ſome it may be) from <hi>worſe</hi> Motives; to draw forth the Broad and Mill'd Mony, for the hoarding of which (Bad Mony being call'd in, Guineas re<g ref="char:EOLhyphen"/>duced, and a Credit created) there will be no more Temptation, and they that have kept it up out of any <hi>Miſchievous Intentions,</hi> will find their Ends diſappointed.</p>
+               <p>In a word, to Cure all our preſent Maladies, and prevent future Dangers; to make the Contrivances of our Enemies againſt us ſo many Advantages to our ſelves, and turn their Hopes to Deſpair; unleſs our Enemies ſhould be more apprehenſive than our Friends, and by their Arts and Miſrepreſentations ſo far prevail, as to obſtruct all Good Deſigns, which might prevent their Bad ones.</p>
+               <p n="6">6. Laſtly, <hi>This is the Time</hi> to let both our Friends and Foes abroad know, that <hi>England</hi> hath now a <hi>Parliament</hi> that will never fail their <hi>King,</hi> nor ſuffer him to be <hi>outwinded;</hi> that not only readily and unanimouſly ſupply'd his preſent Occaſions, but have reſolv'd to continue ſo to do; and have therefore cut out the Method by which neither He nor We ſhall ever want Mony, or be weary of the War; and be ſo far from being Beggar'd by it, that, let it hold as long as it will, we ſhall leave off Gain<g ref="char:EOLhyphen"/>ers, and, by the Experiment now made upon <hi>France,</hi> let all the World know what a dangerous thing it will be for the future to provoke <hi>England.</hi>
+               </p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>ONE Objection I have met with, againſt which I had not expreſly made any pro<g ref="char:EOLhyphen"/>viſion in my former Papers, which is this: <hi>If Loan-Bills be payable in all <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, how ſhall theſe Taxes pay either Intereſt or Principal?</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label>
+                  <list>
+                     <item>1. Tho' all <hi>may,</hi> yet many <hi>cannot,</hi> and ſome <hi>will not</hi> lend even ſo much as their Taxes; theſe muſt pay in Coyn, this may be enough to anſwer the intereſt. Or, ſuppoſe not.</item>
+                     <item>2. If the Credit of theſe Bills prevail, ſo as to enhaunce the Value of them, then no Bills will be paid in Taxes, and conſequently there will be Mony enough; and we have reaſon to believe the Value of them will advance, having much more in <hi>themſelves</hi> to commend them, than the Bills of any other Banks (which yet advance) can have, and Perſons <hi>well vers'd in the Trade,</hi> by their own Intereſt, engag'd to make them as dear a Purchaſe as they can.</item>
+                     <item>3. The Credit thus advanc'd, the People will be ſo far from deſiring their Principal, that they'l be afraid it ſhould be forced upon them; and till they deſire it, what need is there of paying it, unleſs the Parliament find the continuation of it at Intereſt a Grievance to the Nation? But that it will be far from being ſo, ſee what I have ſaid in my <hi>Loan-Office,</hi> Advant. IX, X.</item>
+                     <item>4. But laſtly, to provide for the worſt. As for Principal, <hi>That</hi> the Parliament may from time to time gradually reduce as they pleaſe, either out of the Surpluſage of the Tax remaining after the <hi>Intereſt</hi> is paid, or by an After-Tax appropriated to that purpoſe, to be paid in Mony to the Bank, to ſink the Principal; Altho' if you ſuppoſe the Bills to be returned ſo quick, there will be no need of reducing them; they'l diſ<g ref="char:EOLhyphen"/>ſolve themſelves.</item>
+                  </list>
+               </p>
+               <p>And as for <hi>Intereſt,</hi> it will be no hard matter for the Parliament to find out Appro<g ref="char:EOLhyphen"/>priating Clauſes to be paid only in Coyn, if <hi>they think</hi> they need ſuch Precautions, or this Difficulty be too great for the Bank it ſelf to provide againſt.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for the Author, and are to be had at Mr. <hi>Carter</hi>'s, in <hi>Old Palace-yard</hi> near the <hi>Parliament-houſe;</hi> as likewiſe <hi>The Loan-Office,</hi> and an <hi>Advantageous METHOD,</hi> &amp;c. 1691/6.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
